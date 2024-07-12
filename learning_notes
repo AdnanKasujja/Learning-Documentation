@@ -1,2 +1,12 @@
-Learning Link #1 (CPU Viisual Simulator): https://learn.ontariotechu.ca/courses/27558/modules/items/640083
-LEarning Link #2: https://godbolt.org/
+Link title: Compiler Explorer
+URL: https://godbolt.org/
+Summary of content: It translates C++ to assembly language.
+Key takeaways: I appreciate how critical a compiler is in interpreting instructions from the user, and making it something the machine understands.
+The Compiler also helps to identify syntax and semantic errors, which are crucial to identify early on.
+Personal insights or reflections: It gave me further insight into how machines interpret computer code.
+
+Link title: CPU Visual Stimulator
+URL: https://cpuvisualsimulator.github.io/
+Summary of content: Displays the operations of the CPU.
+Key takeaways: Seeing what goes on underneath the hood of the computer.
+Personal insights or reflections: It's very complicated, lol.
